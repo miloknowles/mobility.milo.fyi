@@ -1,0 +1,8 @@
+# Obsidian: workspace state changes whenever you open a note
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
