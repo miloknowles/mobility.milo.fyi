@@ -1,5 +1,3 @@
-# Mobility System
-
 ## Publishing with Quartz
 
 This vault is the source of truth. It contains only markdown, and [Quartz](https://quartz.jzhao.xyz) is pulled in at build time, so the vault never holds Quartz's Node project.
