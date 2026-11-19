@@ -1,0 +1,11 @@
+Range of motion is mostly limited by the nervous system: the brain stops you wherever it doesn't trust that you can safely produce force.
+
+The actually building usable flexibility (mobility), we pair a strength with strength at both ends of the new range. Stretching temporarily lengthens the muscle, then PAILs/RAILs helps deepen the range, then an eccentric movement builds strength in the muscle being stretched. Finally, we strengthen the opposing muscle(s) to train the body to be able to actually pull into the new range.
+
+| Step | What it is | Purpose |
+| --- | --- | --- |
+| **1. Passive stretch** | Hold the end-range position for 2 min, relaxing as much as possible. | Raises stretch tolerance and settles the protective tension, so you start the active work from your current max range. |
+| **2. PAILs/RAILs** | 15 s PAILs: contract the stretched muscle at ~50% effort, pushing against the stretch. Then 15 s RAILs: contract the opposing muscle to pull deeper with no help. At least 2 rounds. | PAILs teaches the nervous system that the muscle can produce force in this position, which usually unlocks extra range. RAILs takes that new range and starts teaching you to control it. |
+| **3. Loaded eccentric in a lengthened position** | A full-range lift that loads the stretched muscle: 3–4 s down, 1–2 s pause in the stretched position, normal speed up. 6–8 reps, 1–3 reps short of failure. Progress range before load. | Makes the gains last. Eccentric loading at long lengths adds sarcomeres in series, making the muscle fibers longer, and builds strength in the range the brain was protecting. |
+| **4. Strengthen the opposing muscle(s) at end range** | In the deepest position, lift the limb a few cm using only the opposing muscle and hold 3–5 s. If you can't lift at all, hold a max-effort isometric attempt. | Turns passive range into active, usable range. Range you can only reach with help doesn't carry over to sport or daily movement. |
+To apply this process to any part of the body, you just need to figure out (1) which muscle(s) you're trying to stretch, (2) what the opposing muscle(s) are, and a strength exercise to target each at end range.

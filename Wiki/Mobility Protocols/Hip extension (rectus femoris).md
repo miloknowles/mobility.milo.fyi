@@ -1,0 +1,19 @@
+### Testing
+
+This protocol is designed to improve the flexibility of the [rectus femoris](https://www.physio-pedia.com/Rectus_Femoris) muscle. You should use it if your hip extension is limited by the rectus femoris, as opposed to the psoas or other hip flexor muscles. To figure out if this is the right program, use the [[L0 - Lower Body Mobility Assessment]]. In the modified Thomas test, the thigh reaches horizontal but the knee doesn't bend to ~80–90°, and passively flexing the knee makes the thigh rise.
+### Key ideas
+- The rectus femoris only gets stretched with the hip extended **and** the knee bent.
+- The protocol uses static stretching, following by PAILs/RAILs, followed by strengthening at end range.
+### Protocol
+Throughout: posterior pelvic tilt and glute squeezed, or the low back arches and the stretch disappears.
+
+| #   | Exercise                                 | Dose                           | How                                                                                                                                                         | Notes                                                                                                                                                                                                                                        |
+| --- | ---------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Wall couch stretch (passive)             | 2 min per side                 | Rear knee at the base of a wall, shin flat up the wall.                                                                                                     | A wall is more intense than a couch and harder to cheat. Too intense? Use a half-kneeling hip flexor stretch, holding the back foot.                                                                                                         |
+| 2   | PAILs/RAILs (same position)              | 2 rounds per side, 15 s + 15 s | PAILs: drive the shin back into the wall at ~50% effort.<br>RAILs: squeeze the glute and pull the heel toward the butt.                                     |                                                                                                                                                                                                                                              |
+| 3   | Reverse Nordic                           | 3 × 6–8                        | Straight line from knees to shoulders; lean back as one unit.                                                                                               | Progress lean depth first, then hold a plate.                                                                                                                                                                                                |
+| 4   | Prone bent-knee hip extension hold (ISO) | 2 × 20–30 s per side           | Face down, knee at 90°, pelvis pinned. Lift the knee as high as possible using only the glute and hold. Last 5–10 s: try to lift higher at near-max effort. | End the set if the back arches or the knee drops. Progress 20 → 30 s, then toward a maximal contraction for the whole hold. Weaker side gets a 3rd set. Also works as loaded RAILs, since the bent knee keeps the rectus femoris on stretch. |
+### Retest
+- [[L0 - Lower Body Mobility Assessment]]
+### References
+- https://www.physio-pedia.com/Rectus_Femoris
